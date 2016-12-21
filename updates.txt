@@ -1,0 +1,9 @@
+UPDATES:
+
+"Flappy Cat" is now "Flappy Hound"
+	20-05-2015
+New Design
+	20-05-2015
+
+Images moved into separate folder
+	21-12-2016
